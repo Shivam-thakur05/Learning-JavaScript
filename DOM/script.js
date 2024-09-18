@@ -89,3 +89,14 @@ if (replace) {
 
     replace.parentNode.replaceChild(newChild, replace);
 }
+
+//get Attributes
+let div = document.querySelector("div");
+let id = div.getAttribute("name");
+console.log(id); 
+
+//set Attributes
+div.setAttribute("name", "newName");
+console.log(div.getAttribute("name"));
+
+

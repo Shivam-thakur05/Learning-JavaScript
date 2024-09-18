@@ -1,4 +1,4 @@
-//create an array with the results of some operation. The va;uue its callbacak returns are used to form new array
+//create an array with the results of some operation. The value its callbacak returns are used to form new array
 
 let arr = [1,2,3,4,5];
 
